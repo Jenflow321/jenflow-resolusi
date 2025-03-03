@@ -1,2 +1,2 @@
-# resolusi
+# RESOLUSI 2025
 Repository untuk menyimpan rencana-rencana kedepannya...
