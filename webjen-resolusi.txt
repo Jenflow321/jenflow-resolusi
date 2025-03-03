@@ -1,0 +1,4 @@
+Ini adalah rencana webjen mendatang....
+-> menambahkan games klasik seperti tictactoe
+-> menambahkan blogs untuk comunity
+-> menambahkan library untuk di isi buku novel dan beberapa buku pelajaram
